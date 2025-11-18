@@ -1,4 +1,4 @@
-## Opa! Me chamo André, e atualmente sou Estudante de programação full-stack. 👋
+## Opa, atualmente sou Estudante de programação back-end com ênfase em Java :) 
 
 ![sqlandr3 GitHub stats](https://github-readme-stats.vercel.app/api?username=sqlandr3&show_icons=true&theme=tokyonight)
 
