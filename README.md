@@ -9,8 +9,11 @@
 DeveloperProfile andre = new DeveloperProfile();
 
 andre.education = "ADS (em andamento)";
+
 andre.level = "iniciante";
+
 andre.focus = "backend em formação";
+
 
 andre.skills = [
   "Lógica de Programação",
@@ -19,6 +22,7 @@ andre.skills = [
   "POO (básico)",
   "Fundamentos de Sistemas"
 ];
+
 
 andre.learning = [
   "Java",
