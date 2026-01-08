@@ -12,7 +12,7 @@ user: andr3
 
 status: estudante de ADS
 
-nível: iniciante
+nível: iniciante/intermediário
 
 
 skills:
