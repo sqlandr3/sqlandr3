@@ -5,21 +5,26 @@
 📚 Aprendendo lógica, POO e desenvolvimento de software
 
 ## Mᴇᴜ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏ ᴇ ᴇsᴛᴜᴅᴏs ᴇᴍ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ⚙️
-user: André
 
-status: estudante de ADS
+DeveloperProfile andre = new DeveloperProfile();
 
-nível: intermediário 
+andre.education = "ADS (em andamento)";
+andre.level = "iniciante";
+andre.focus = "backend em formação";
 
-skills:
-- lógica de programação
-- estruturas de controle
-- POO (básico)
+andre.skills = [
+  "Lógica de Programação",
+  "Estruturas de Controle",
+  "Vetores e Funções",
+  "POO (básico)",
+  "Fundamentos de Sistemas"
+];
 
-em aprendizado:
-- java
-- sistemas
-- POO
+andre.learning = [
+  "Java",
+  "Algoritmos"
+];
+
 
 Apaixonado por tecnologia e motivado para aprender!
 </div>
