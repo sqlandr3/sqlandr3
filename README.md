@@ -6,7 +6,9 @@
 
 ## Mᴇᴜ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏ ᴇ ᴇsᴛᴜᴅᴏs ᴇᴍ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ⚙️
 user: André
+
 status: estudante de ADS
+
 nível: intermediário 
 
 skills:
