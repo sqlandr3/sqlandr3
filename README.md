@@ -1,11 +1,24 @@
-## Opa, atualmente sou Estudante de programação back-end com ênfase em Java :) 
+## Oᴘᴀ! Esᴛᴜᴅᴀɴᴛᴇ ᴅᴇ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ 👨‍💻 Eᴍ ғᴏʀᴍᴀᴄ̧ᴀ̃ᴏ ᴇᴍ ʙᴀᴄᴋᴇɴᴅ | Aᴘʀᴇɴᴅᴇɴᴅᴏ Jᴀᴠᴀ
 
-[![sqlandr3 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+🎓 Estudante de ADS
+💻 Em formação em backend e programação
+📚 Aprendendo lógica, POO e desenvolvimento de software
 
-## Meu conhecimento e estudos em programação ⚙️
-![sqlandr3](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![sqlandr3](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
-  
+## Mᴇᴜ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏ ᴇ ᴇsᴛᴜᴅᴏs ᴇᴍ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ⚙️
+user: André
+status: estudante de ADS
+nível: intermediário 
+
+skills:
+- lógica de programação
+- estruturas de controle
+- POO (básico)
+
+em aprendizado:
+- java
+- sistemas
+- POO
+
 Apaixonado por tecnologia e motivado para aprender!
 </div>
 
