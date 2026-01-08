@@ -1,4 +1,6 @@
-## Oᴘᴀ! Esᴛᴜᴅᴀɴᴛᴇ ᴅᴇ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ 👨‍💻 Eᴍ ғᴏʀᴍᴀᴄ̧ᴀ̃ᴏ ᴇᴍ ʙᴀᴄᴋᴇɴᴅ | Aᴘʀᴇɴᴅᴇɴᴅᴏ Jᴀᴠᴀ
+## Estudante de programação 👨‍💻
+## Em formação em backend | Aprendendo Java
+
 
 🎓 Estudante de ADS
 💻 Em formação em backend e programação
