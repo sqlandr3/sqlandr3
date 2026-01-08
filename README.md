@@ -6,7 +6,7 @@
 
 ## Mᴇᴜ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏ ᴇ ᴇsᴛᴜᴅᴏs ᴇᴍ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ⚙️
 
-user: André Masoni
+user: andr3
 
 status: estudante de ADS
 
