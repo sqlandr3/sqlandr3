@@ -6,28 +6,20 @@
 
 ## Mᴇᴜ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏ ᴇ ᴇsᴛᴜᴅᴏs ᴇᴍ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ⚙️
 
-DeveloperProfile andre = new DeveloperProfile();
+$ whoami
+André Masoni
 
-andre.education = "ADS (em andamento)";
+$ profile
+Estudante de ADS | Backend em formação
 
-andre.level = "iniciante";
+$ skills
+Lógica de Programação
+POO (básico)
+Algoritmos
 
-andre.focus = "backend em formação";
-
-
-andre.skills = [
-  "Lógica de Programação",
-  "Estruturas de Controle",
-  "Vetores e Funções",
-  "POO (básico)",
-  "Fundamentos de Sistemas"
-];
-
-
-andre.learning = [
-  "Java",
-  "Algoritmos"
-];
+$ learning
+Java
+Python
 
 
 Apaixonado por tecnologia e motivado para aprender!
