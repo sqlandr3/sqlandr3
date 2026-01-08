@@ -6,21 +6,21 @@
 
 ## Mᴇᴜ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏ ᴇ ᴇsᴛᴜᴅᴏs ᴇᴍ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ⚙️
 
-$ whoami
-André Masoni
+user: André Masoni
 
-$ profile
-Estudante de ADS | Backend em formação
+status: estudante de ADS
 
-$ skills
-Lógica de Programação
-POO (básico)
-Algoritmos
+nível: iniciante
 
-$ learning
-Java
-Python
 
+skills:
+- lógica de programação
+- estruturas de controle
+- POO (básico)
+
+em aprendizado:
+- java
+- python
 
 Apaixonado por tecnologia e motivado para aprender!
 </div>
