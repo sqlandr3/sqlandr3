@@ -1,29 +1,28 @@
-## Estudante de programação 👨‍💻
-## Em formação em backend | Aprendendo Java
+# André - Backend Developer (Java)
 
+Desenvolvedor focado em construção de APIs REST com Java, aplicando boas práticas de arquitetura, organização de código e persistência de dados.
 
-🎓 Estudante de ADS
-💻 Em formação em backend e programação
-📚 Aprendendo lógica, POO e desenvolvimento de software
+## Stack
+- Java
+- Spring Boot
+- JPA / Hibernate
+- PostgreSQL
+- Git
 
-## Mᴇᴜ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏ ᴇ ᴇsᴛᴜᴅᴏs ᴇᴍ ᴘʀᴏɢʀᴀᴍᴀᴄ̧ᴀ̃ᴏ ⚙️
+## Conhecimentos
+- Programação orientada a objetos
+- Arquitetura em camadas
+- Criação de APIs REST
+- Tratamento de exceções
+- Persistência de dados
 
-user: andr3
+## Projetos
+- Order Management API
+  - Autenticação JWT
+  - Controle de acesso por perfil
+  - Fluxo de pedidos
+  - Persistência com JPA
 
-status: estudante de ADS
-
-nível: intermediário
-
-
-skills:
-- lógica de programação
-- estruturas de controle
-- POO (básico)
-
-em aprendizado:
-- java
-- python
-
-Apaixonado por tecnologia e motivado para aprender!
-</div>
-
+## Status
+- Estudante de ADS
+- Foco: backend com Java
