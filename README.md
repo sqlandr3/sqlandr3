@@ -23,6 +23,15 @@ Desenvolvedor focado em construção de APIs REST com Java, aplicando boas prát
 
 <img 
     align="left" 
+    alt="Maven" 
+    title="Maven"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
