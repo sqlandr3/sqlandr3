@@ -42,6 +42,8 @@ Desenvolvedor focado em construção de APIs REST com Java, aplicando boas prát
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+#
+
 
 <img
     align="left" 
