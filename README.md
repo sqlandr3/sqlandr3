@@ -47,3 +47,6 @@ Desenvolvedor focado em construção de APIs REST com Java, aplicando boas prát
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
   />
+
+  ##Social
+  <a href="https://www.linkedin.com/in/andre-masoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
