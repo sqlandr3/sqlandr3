@@ -50,24 +50,5 @@ Desenvolvedor focado em construção de APIs REST com Java, aplicando boas prát
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  #
+#
+#
