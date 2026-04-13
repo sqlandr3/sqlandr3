@@ -4,7 +4,7 @@ Desenvolvedor focado em construção de APIs REST com Java, aplicando boas prát
 
 ## Stack
 
-<i class="devicon-java-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           
 <img 
     align="left" 
