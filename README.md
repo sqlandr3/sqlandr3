@@ -3,6 +3,9 @@
 Desenvolvedor focado em construção de APIs REST com Java, aplicando boas práticas de arquitetura, organização de código e persistência de dados.
 
 ## Stack
+
+<i class="devicon-java-plain colored"></i>
+          
 <img 
     align="left" 
     alt="Git" 
