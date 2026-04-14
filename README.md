@@ -1,6 +1,9 @@
-# André - Backend Developer (Java)
+# 👋 Olá, seja bem-vindo!
 
-Desenvolvedor focado em construção de APIs REST com Java, aplicando boas práticas de arquitetura, organização de código e persistência de dados.
+Me chamo André e estou focado em desenvolvimento back-end, com ênfase em Java.  
+Aqui você vai encontrar meus projetos, estudos e evolução prática na área de programação.
+
+-> Desenvolvedor focado em construção de APIs REST com Java, aplicando boas práticas de arquitetura, organização de código e persistência de dados.
 
 ## Stack
 
